@@ -1,5 +1,5 @@
 // TODO: replace with the real Darsiga Garments enquiry address.
-const ENQUIRY_EMAIL = "hritabratabardhan13579@gmail.com";
+const ENQUIRY_EMAIL = "enquiries@example.com";
 
 const navToggle = document.querySelector(".nav-toggle");
 const nav = document.getElementById("site-nav");
